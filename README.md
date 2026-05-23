@@ -1,7 +1,6 @@
 # Nigeria DisCos & KEDCO Loss & Revenue Recovery Analysis
 
 **Author:** Muhammad Ahmad Yusuf
-**Location:** Kano, Nigeria
 
 ## Project Overview
 This project is a comprehensive data analysis and business intelligence solution evaluating the operational and commercial performance of Nigerian Electricity Distribution Companies (DisCos), with a deep-dive focus on the **Kano Electricity Distribution Company (KEDCO)**. By leveraging 2025 performance data, this analysis investigates energy losses, billing efficiency, revenue collection performance, and Aggregate Technical, Commercial and Collection (ATC&C) losses.
@@ -11,11 +10,11 @@ The primary goal is to benchmark nationwide DisCo performance, identify the majo
 ## Dashboards
 
 ### 1. National DisCos Overview
-![Discos Dashboard](<Insert-Path-To-Discos-Dashboard.png>)
+![Discos Dashboard](Images/Discos%Dashboard.png)
 *Provides a macro-level view of all Nigerian DisCos, comparing Billing Efficiency, Collection Efficiency, and ATC&C Losses.*
 
 ### 2. KEDCO Specific Performance
-![KEDCO Dashboard](<Insert-Path-To-KEDCO-dashboard.png>)
+![KEDCO Dashboard](Images/KEDCO%dashboard.png)
 *A localized deep-dive into KEDCO's specific revenue recovery challenges, highlighting the severe disparity between billing capabilities and actual revenue collection.*
 
 ## Data Sources & Methodology
